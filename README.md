@@ -1,6 +1,6 @@
 # squad-internal-cheat
 
-- squad internal base 
+- squad internal simple base 
 
 - It works in eac version but you need injector
 
